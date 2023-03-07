@@ -37,3 +37,5 @@ In the code examples, I'd rather leave my links to git repositories:
 > English level: B1-B2
 >
 <img src="images/IMG_1280.JPG" width="190" height="300" alt=" ">
+
+**P.S. активно ищу работу в коммерческой компании**
