@@ -2,7 +2,9 @@
 > Phone: 89297576060
 > 
 > Mail: ar4iking19@gmail.com
-> 
+>
+> Discord: Ipixels
+>
 Student, 2nd year of master degree course of USATU. As well I am working as a React Frontend developer on a remote PM.
 The goal can be called the desire to be a good specialist with excellent knowledge of a foreign language to move to the United States.
 I have been working with different projects from customers for 2 years as a react developer. Before that, I made up websites in native HTML&CSS.
@@ -33,3 +35,5 @@ In the code examples, I'd rather leave my links to git repositories:
 > Bachelor of Mathematics and Software Engineering
 > 
 > English level: B1-B2
+>
+<img src="images/IMG_1280.JPG" width="190" height="300" alt=" ">
