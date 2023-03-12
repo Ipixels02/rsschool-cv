@@ -38,4 +38,4 @@ In the code examples, I'd rather leave my links to git repositories:
 >
 <img src="images/IMG_1280.JPG" width="190" height="300" alt=" ">
 
-**P.S. активно ищу работу в коммерческой компании**
+***P.S. I am actively looking for a job in a commercial company***
